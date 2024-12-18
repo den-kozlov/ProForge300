@@ -16,7 +16,9 @@ Available to order [here.](https://www.makertech3d.com/pages/proforge-300)
 	•	Klipper Firmware: High-speed and responsive motion control.
 
 
+# ProForge 300 Klipper Firmware Image
 
+The Klipper firmware image is available to download [here](https://mega.nz/file/s3c2yLpL#45p-zCgpL2xGsliyOl72hiXyFS9ZQuSpQ91LdNRgVnc).
 
 # ProForge 300 Build Manual
 
