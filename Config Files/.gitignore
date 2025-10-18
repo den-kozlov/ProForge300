@@ -1,3 +1,4 @@
 printer-*.cfg
 *.bkp
 adxl_results/*
+.dynamicmacros.cfg
